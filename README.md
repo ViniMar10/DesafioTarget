@@ -1,4 +1,4 @@
-Desafio da target sistemas para uma vaga de estágio 
+Desafio da target sistemas para uma vaga de estágio em desenvolvimento
 
 Desafio 1 : Ao final do processamento o valor da variável SOMA será 91.
 
